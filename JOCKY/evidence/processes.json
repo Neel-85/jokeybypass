@@ -1,0 +1,2076 @@
+{
+    "evidence_type": "process_list",
+    "process_count": 230,
+    "processes": [
+        {
+            "pid": 18004,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 3.31,
+            "memory_mb": 534.25
+        },
+        {
+            "pid": 3744,
+            "name": "MemCompression",
+            "executable": "MemCompression",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 2.57,
+            "memory_mb": 414.48
+        },
+        {
+            "pid": 9572,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 2.17,
+            "memory_mb": 349.38
+        },
+        {
+            "pid": 29308,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 117.6,
+            "memory_percent": 1.99,
+            "memory_mb": 321.03
+        },
+        {
+            "pid": 14364,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.76,
+            "memory_mb": 284.11
+        },
+        {
+            "pid": 6064,
+            "name": "MsMpEng.exe",
+            "executable": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26080.4-0\\MsMpEng.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 1.46,
+            "memory_mb": 235.35
+        },
+        {
+            "pid": 11104,
+            "name": "explorer.exe",
+            "executable": "C:\\Windows\\explorer.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.46,
+            "memory_mb": 235.62
+        },
+        {
+            "pid": 8528,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.19,
+            "memory_mb": 192.5
+        },
+        {
+            "pid": 22624,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.18,
+            "memory_mb": 190.13
+        },
+        {
+            "pid": 19832,
+            "name": "Notepad.exe",
+            "executable": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\\Notepad\\Notepad.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.1,
+            "memory_mb": 177.7
+        },
+        {
+            "pid": 20000,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.07,
+            "memory_mb": 173.09
+        },
+        {
+            "pid": 9740,
+            "name": "WhatsApp.Root.exe",
+            "executable": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2637.100.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.99,
+            "memory_mb": 159.33
+        },
+        {
+            "pid": 30144,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.93,
+            "memory_mb": 149.98
+        },
+        {
+            "pid": 21820,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.79,
+            "memory_mb": 126.74
+        },
+        {
+            "pid": 25332,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.77,
+            "memory_mb": 123.91
+        },
+        {
+            "pid": 6332,
+            "name": "MSPCManagerCore.exe",
+            "executable": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.22.6.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManagerCore.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.73,
+            "memory_mb": 117.21
+        },
+        {
+            "pid": 29376,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.72,
+            "memory_mb": 116.37
+        },
+        {
+            "pid": 12712,
+            "name": "MSPCManager.exe",
+            "executable": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.22.6.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManager.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.68,
+            "memory_mb": 109.7
+        },
+        {
+            "pid": 12992,
+            "name": "dwm.exe",
+            "executable": "C:\\Windows\\System32\\dwm.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.65,
+            "memory_mb": 105.18
+        },
+        {
+            "pid": 17320,
+            "name": "StartMenuExperienceHost.exe",
+            "executable": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.6,
+            "memory_mb": 96.49
+        },
+        {
+            "pid": 15044,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.58,
+            "memory_mb": 93.83
+        },
+        {
+            "pid": 18224,
+            "name": "SearchHost.exe",
+            "executable": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.53,
+            "memory_mb": 84.76
+        },
+        {
+            "pid": 26028,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.53,
+            "memory_mb": 85.97
+        },
+        {
+            "pid": 18500,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.51,
+            "memory_mb": 82.6
+        },
+        {
+            "pid": 6456,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.49,
+            "memory_mb": 78.47
+        },
+        {
+            "pid": 25732,
+            "name": "ShellExperienceHost.exe",
+            "executable": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.49,
+            "memory_mb": 79.7
+        },
+        {
+            "pid": 11348,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.47,
+            "memory_mb": 75.69
+        },
+        {
+            "pid": 29420,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.47,
+            "memory_mb": 75.77
+        },
+        {
+            "pid": 8852,
+            "name": "MSPCManagerService.exe",
+            "executable": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.22.6.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManagerService.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.43,
+            "memory_mb": 68.94
+        },
+        {
+            "pid": 188,
+            "name": "",
+            "executable": "",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.39,
+            "memory_mb": 63.08
+        },
+        {
+            "pid": 12832,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.39,
+            "memory_mb": 62.59
+        },
+        {
+            "pid": 10220,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.38,
+            "memory_mb": 61.7
+        },
+        {
+            "pid": 1948,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.37,
+            "memory_mb": 59.93
+        },
+        {
+            "pid": 20604,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.33,
+            "memory_mb": 53.5
+        },
+        {
+            "pid": 21536,
+            "name": "AsusSoftwareManagerAgent.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSSoftwareManager\\AsusSoftwareManagerAgent.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.33,
+            "memory_mb": 53.21
+        },
+        {
+            "pid": 8488,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.32,
+            "memory_mb": 51.89
+        },
+        {
+            "pid": 18320,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.32,
+            "memory_mb": 51.09
+        },
+        {
+            "pid": 27844,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.32,
+            "memory_mb": 51.51
+        },
+        {
+            "pid": 232,
+            "name": "Registry",
+            "executable": "Registry",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.3,
+            "memory_mb": 48.46
+        },
+        {
+            "pid": 10612,
+            "name": "ApplicationFrameHost.exe",
+            "executable": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.29,
+            "memory_mb": 46.04
+        },
+        {
+            "pid": 6600,
+            "name": "powershell.exe",
+            "executable": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.28,
+            "memory_mb": 45.35
+        },
+        {
+            "pid": 20240,
+            "name": "NVDisplay.Container.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvam.inf_amd64_900a074fe80431cd\\Display.NvContainer\\NVDisplay.Container.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.28,
+            "memory_mb": 45.78
+        },
+        {
+            "pid": 3668,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.27,
+            "memory_mb": 44.32
+        },
+        {
+            "pid": 5224,
+            "name": "mongod.exe",
+            "executable": "C:\\Program Files\\MongoDB\\Server\\8.3\\bin\\mongod.exe",
+            "username": null,
+            "cpu_percent": 14.3,
+            "memory_percent": 0.27,
+            "memory_mb": 44.2
+        },
+        {
+            "pid": 15604,
+            "name": "MicrosoftStartFeedProvider.exe",
+            "executable": "C:\\Program Files\\WindowsApps\\Microsoft.StartExperiencesApp_1.380.2.0_x64__8wekyb3d8bbwe\\MicrosoftStartFeedProvider\\MicrosoftStartFeedProvider.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.26,
+            "memory_mb": 41.42
+        },
+        {
+            "pid": 768,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.23,
+            "memory_mb": 36.98
+        },
+        {
+            "pid": 1528,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.23,
+            "memory_mb": 37.01
+        },
+        {
+            "pid": 3496,
+            "name": "TextInputHost.exe",
+            "executable": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.23,
+            "memory_mb": 36.77
+        },
+        {
+            "pid": 25360,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.23,
+            "memory_mb": 37.07
+        },
+        {
+            "pid": 19712,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.22,
+            "memory_mb": 35.44
+        },
+        {
+            "pid": 3556,
+            "name": "NVDisplay.Container.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvam.inf_amd64_900a074fe80431cd\\Display.NvContainer\\NVDisplay.Container.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.21,
+            "memory_mb": 33.09
+        },
+        {
+            "pid": 4944,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.21,
+            "memory_mb": 34.04
+        },
+        {
+            "pid": 7288,
+            "name": "SearchIndexer.exe",
+            "executable": "C:\\Windows\\System32\\SearchIndexer.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.21,
+            "memory_mb": 33.45
+        },
+        {
+            "pid": 7780,
+            "name": "python.exe",
+            "executable": "C:\\Users\\john\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.2,
+            "memory_mb": 31.89
+        },
+        {
+            "pid": 9928,
+            "name": "ctfmon.exe",
+            "executable": "C:\\Windows\\System32\\ctfmon.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.2,
+            "memory_mb": 32.63
+        },
+        {
+            "pid": 25144,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.2,
+            "memory_mb": 32.91
+        },
+        {
+            "pid": 1396,
+            "name": "lsass.exe",
+            "executable": "C:\\Windows\\System32\\lsass.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.19,
+            "memory_mb": 30.48
+        },
+        {
+            "pid": 6544,
+            "name": "RuntimeBroker.exe",
+            "executable": "C:\\Windows\\System32\\RuntimeBroker.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.19,
+            "memory_mb": 30.28
+        },
+        {
+            "pid": 11756,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.19,
+            "memory_mb": 30.76
+        },
+        {
+            "pid": 4916,
+            "name": "DtsApo4Service.exe",
+            "executable": "C:\\Windows\\System32\\DTS\\PC\\APO4x\\DtsApo4Service.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.18,
+            "memory_mb": 29.02
+        },
+        {
+            "pid": 24084,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.18,
+            "memory_mb": 28.89
+        },
+        {
+            "pid": 27696,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.18,
+            "memory_mb": 28.87
+        },
+        {
+            "pid": 4328,
+            "name": "fdm.exe",
+            "executable": "D:\\Program Files\\Free Download Manager\\fdm.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.17,
+            "memory_mb": 27.9
+        },
+        {
+            "pid": 5672,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.17,
+            "memory_mb": 26.74
+        },
+        {
+            "pid": 8084,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.17,
+            "memory_mb": 27.91
+        },
+        {
+            "pid": 8456,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.17,
+            "memory_mb": 27.93
+        },
+        {
+            "pid": 9932,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.17,
+            "memory_mb": 27.86
+        },
+        {
+            "pid": 4620,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 25.81
+        },
+        {
+            "pid": 4952,
+            "name": "AsusAppService.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\AsusAppService\\AsusAppService.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 26.55
+        },
+        {
+            "pid": 5004,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 25.02
+        },
+        {
+            "pid": 5404,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 25.07
+        },
+        {
+            "pid": 7148,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 26.23
+        },
+        {
+            "pid": 12784,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 25.47
+        },
+        {
+            "pid": 12960,
+            "name": "SecurityHealthService.exe",
+            "executable": "C:\\Windows\\System32\\SecurityHealthService.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 25.37
+        },
+        {
+            "pid": 22120,
+            "name": "WidgetService.exe",
+            "executable": "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 25.34
+        },
+        {
+            "pid": 22236,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 26.56
+        },
+        {
+            "pid": 26108,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "memory_mb": 25.1
+        },
+        {
+            "pid": 2064,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.15,
+            "memory_mb": 24.75
+        },
+        {
+            "pid": 4020,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.15,
+            "memory_mb": 23.53
+        },
+        {
+            "pid": 4136,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.15,
+            "memory_mb": 24.07
+        },
+        {
+            "pid": 5184,
+            "name": "MpDefenderCoreService.exe",
+            "executable": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26080.4-0\\MpDefenderCoreService.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.15,
+            "memory_mb": 24.64
+        },
+        {
+            "pid": 7368,
+            "name": "RuntimeBroker.exe",
+            "executable": "C:\\Windows\\System32\\RuntimeBroker.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.15,
+            "memory_mb": 23.99
+        },
+        {
+            "pid": 8308,
+            "name": "sihost.exe",
+            "executable": "C:\\Windows\\System32\\sihost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.15,
+            "memory_mb": 24.59
+        },
+        {
+            "pid": 22232,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.15,
+            "memory_mb": 24.18
+        },
+        {
+            "pid": 29164,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.15,
+            "memory_mb": 23.48
+        },
+        {
+            "pid": 1564,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "memory_mb": 22.64
+        },
+        {
+            "pid": 2692,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "memory_mb": 21.98
+        },
+        {
+            "pid": 3872,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "memory_mb": 23.09
+        },
+        {
+            "pid": 5012,
+            "name": "OneApp.IGCC.WinService.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\igcc_dch.inf_amd64_564a6f565b40bd5f\\OneApp.IGCC.WinService.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "memory_mb": 23.06
+        },
+        {
+            "pid": 21104,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "memory_mb": 21.99
+        },
+        {
+            "pid": 27356,
+            "name": "winlogon.exe",
+            "executable": "C:\\Windows\\System32\\winlogon.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "memory_mb": 23.06
+        },
+        {
+            "pid": 2644,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.13,
+            "memory_mb": 21.38
+        },
+        {
+            "pid": 4460,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.13,
+            "memory_mb": 20.69
+        },
+        {
+            "pid": 14536,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.13,
+            "memory_mb": 21.42
+        },
+        {
+            "pid": 1672,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "memory_mb": 19.03
+        },
+        {
+            "pid": 1716,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "memory_mb": 19.13
+        },
+        {
+            "pid": 3588,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "memory_mb": 18.83
+        },
+        {
+            "pid": 3644,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "memory_mb": 18.81
+        },
+        {
+            "pid": 3852,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "memory_mb": 18.88
+        },
+        {
+            "pid": 3900,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "memory_mb": 19.37
+        },
+        {
+            "pid": 8584,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "memory_mb": 18.91
+        },
+        {
+            "pid": 1368,
+            "name": "services.exe",
+            "executable": "C:\\Windows\\System32\\services.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "memory_mb": 18.15
+        },
+        {
+            "pid": 1612,
+            "name": "WUDFHost.exe",
+            "executable": "C:\\Windows\\System32\\WUDFHost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "memory_mb": 17.27
+        },
+        {
+            "pid": 3908,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "memory_mb": 18.09
+        },
+        {
+            "pid": 4224,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "memory_mb": 17.74
+        },
+        {
+            "pid": 4980,
+            "name": "AsusSystemAnalysis.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSSystemAnalysis\\AsusSystemAnalysis.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "memory_mb": 18.18
+        },
+        {
+            "pid": 16684,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "memory_mb": 17.64
+        },
+        {
+            "pid": 1880,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 15.77
+        },
+        {
+            "pid": 2136,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 16.28
+        },
+        {
+            "pid": 2348,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 15.95
+        },
+        {
+            "pid": 4532,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 15.85
+        },
+        {
+            "pid": 4908,
+            "name": "AsusSoftwareManager.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSSoftwareManager\\AsusSoftwareManager.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 16.09
+        },
+        {
+            "pid": 5060,
+            "name": "IntelAudioService.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\intcoed.inf_amd64_0bfc7052a9e9b3c5\\AS\\IAS\\IntelAudioService.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 15.97
+        },
+        {
+            "pid": 5364,
+            "name": "RtkAudUService64.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_8b8f1bcdf16553b6\\RtkAudUService64.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 16.63
+        },
+        {
+            "pid": 5980,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 16.24
+        },
+        {
+            "pid": 10440,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 16.69
+        },
+        {
+            "pid": 10644,
+            "name": "WidgetBoard.exe",
+            "executable": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\\WidgetBoard.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 16.43
+        },
+        {
+            "pid": 10852,
+            "name": "WmiPrvSE.exe",
+            "executable": "C:\\Windows\\System32\\wbem\\WmiPrvSE.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 16.36
+        },
+        {
+            "pid": 14584,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "memory_mb": 16.79
+        },
+        {
+            "pid": 2116,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 14.55
+        },
+        {
+            "pid": 2400,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 13.76
+        },
+        {
+            "pid": 4960,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 15.13
+        },
+        {
+            "pid": 5048,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 14.23
+        },
+        {
+            "pid": 5420,
+            "name": "WMIRegistrationService.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_d51901c26227fb29\\WMIRegistrationService.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 14.25
+        },
+        {
+            "pid": 7100,
+            "name": "AggregatorHost.exe",
+            "executable": "C:\\Windows\\System32\\AggregatorHost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 15.02
+        },
+        {
+            "pid": 10476,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 14.61
+        },
+        {
+            "pid": 13708,
+            "name": "NisSrv.exe",
+            "executable": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26080.4-0\\NisSrv.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 14.8
+        },
+        {
+            "pid": 23612,
+            "name": "taskhostw.exe",
+            "executable": "C:\\Windows\\System32\\taskhostw.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 14.51
+        },
+        {
+            "pid": 27736,
+            "name": "MoNotificationUx.exe",
+            "executable": "C:\\Windows\\UUS\\amd64\\MoNotificationUx.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "memory_mb": 14.36
+        },
+        {
+            "pid": 1720,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "memory_mb": 12.82
+        },
+        {
+            "pid": 2108,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "memory_mb": 13.35
+        },
+        {
+            "pid": 3056,
+            "name": "igfxCUIServiceN.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_b20183c0e1a9d643\\igfxCUIServiceN.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "memory_mb": 12.43
+        },
+        {
+            "pid": 3144,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "memory_mb": 13.29
+        },
+        {
+            "pid": 3720,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "memory_mb": 12.11
+        },
+        {
+            "pid": 4564,
+            "name": "spoolsv.exe",
+            "executable": "C:\\Windows\\System32\\spoolsv.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "memory_mb": 12.92
+        },
+        {
+            "pid": 4972,
+            "name": "AsusSystemDiagnosis.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSSystemDiagnosis\\AsusSystemDiagnosis.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "memory_mb": 12.72
+        },
+        {
+            "pid": 6936,
+            "name": "WmiPrvSE.exe",
+            "executable": "C:\\Windows\\System32\\wbem\\WmiPrvSE.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "memory_mb": 12.64
+        },
+        {
+            "pid": 12692,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "memory_mb": 12.89
+        },
+        {
+            "pid": 1364,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 10.88
+        },
+        {
+            "pid": 2324,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 11.82
+        },
+        {
+            "pid": 2452,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 11.05
+        },
+        {
+            "pid": 2524,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 11.59
+        },
+        {
+            "pid": 2944,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 11.42
+        },
+        {
+            "pid": 3120,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 11.14
+        },
+        {
+            "pid": 3728,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 10.88
+        },
+        {
+            "pid": 3952,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 10.54
+        },
+        {
+            "pid": 4928,
+            "name": "ArmouryCrateControlInterface.exe",
+            "executable": "C:\\Windows\\System32\\ASUSACCI\\ArmouryCrateControlInterface.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 12.06
+        },
+        {
+            "pid": 5280,
+            "name": "mysqld.exe",
+            "executable": "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqld.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 11.59
+        },
+        {
+            "pid": 5304,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 10.55
+        },
+        {
+            "pid": 5808,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 11.47
+        },
+        {
+            "pid": 6568,
+            "name": "mysqld.exe",
+            "executable": "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqld.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 12.02
+        },
+        {
+            "pid": 7124,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 11.31
+        },
+        {
+            "pid": 12080,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 12.06
+        },
+        {
+            "pid": 27424,
+            "name": "ArmouryCrateKeyControl.exe",
+            "executable": "C:\\Windows\\System32\\ASUSACCI\\ArmouryCrateKeyControl.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "memory_mb": 11.38
+        },
+        {
+            "pid": 1288,
+            "name": "wininit.exe",
+            "executable": "C:\\Windows\\System32\\wininit.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.02
+        },
+        {
+            "pid": 1460,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 10.38
+        },
+        {
+            "pid": 2192,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 8.98
+        },
+        {
+            "pid": 2260,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 10.26
+        },
+        {
+            "pid": 2372,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.05
+        },
+        {
+            "pid": 2540,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 10.06
+        },
+        {
+            "pid": 2936,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.45
+        },
+        {
+            "pid": 3308,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.5
+        },
+        {
+            "pid": 3460,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 8.91
+        },
+        {
+            "pid": 4200,
+            "name": "AsusOptimization.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSOptimization\\AsusOptimization.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 10.26
+        },
+        {
+            "pid": 4796,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.69
+        },
+        {
+            "pid": 4936,
+            "name": "AsusSwitch.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSSwitch\\AsusSwitch.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.76
+        },
+        {
+            "pid": 5436,
+            "name": "powershell.exe",
+            "executable": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.74
+        },
+        {
+            "pid": 6868,
+            "name": "conhost.exe",
+            "executable": "C:\\Windows\\System32\\conhost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.19
+        },
+        {
+            "pid": 7820,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 10.1
+        },
+        {
+            "pid": 8724,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.07
+        },
+        {
+            "pid": 9916,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.1
+        },
+        {
+            "pid": 10712,
+            "name": "RuntimeBroker.exe",
+            "executable": "C:\\Windows\\System32\\RuntimeBroker.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 8.88
+        },
+        {
+            "pid": 12148,
+            "name": "ShellHost.exe",
+            "executable": "C:\\Windows\\System32\\ShellHost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.73
+        },
+        {
+            "pid": 13716,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.53
+        },
+        {
+            "pid": 14620,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 10.0
+        },
+        {
+            "pid": 18216,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.73
+        },
+        {
+            "pid": 18400,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 9.11
+        },
+        {
+            "pid": 27044,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "memory_mb": 10.45
+        },
+        {
+            "pid": 1776,
+            "name": "WUDFHost.exe",
+            "executable": "C:\\Windows\\System32\\WUDFHost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 8.32
+        },
+        {
+            "pid": 2276,
+            "name": "csrss.exe",
+            "executable": "C:\\Windows\\System32\\csrss.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 7.89
+        },
+        {
+            "pid": 2424,
+            "name": "IntelCpHDCPSvc.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_f63934308f6cc308\\IntelCpHDCPSvc.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 7.33
+        },
+        {
+            "pid": 2552,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 7.48
+        },
+        {
+            "pid": 4240,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 8.61
+        },
+        {
+            "pid": 5212,
+            "name": "esif_uf.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dptf_cpu.inf_amd64_897ea327b3fe52f7\\esif_uf.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 7.86
+        },
+        {
+            "pid": 5316,
+            "name": "TbtP2pShortcutService.exe",
+            "executable": "C:\\Windows\\TbtP2pShortcutService.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 7.28
+        },
+        {
+            "pid": 5340,
+            "name": "jhi_service.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_af50fdb80983f7bc\\jhi_service.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 8.13
+        },
+        {
+            "pid": 13528,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 8.46
+        },
+        {
+            "pid": 14540,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 8.0
+        },
+        {
+            "pid": 15728,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 8.82
+        },
+        {
+            "pid": 15860,
+            "name": "RtkAudUService64.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_8b8f1bcdf16553b6\\RtkAudUService64.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 7.98
+        },
+        {
+            "pid": 21020,
+            "name": "CrossDeviceResume.exe",
+            "executable": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 8.83
+        },
+        {
+            "pid": 21308,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 8.43
+        },
+        {
+            "pid": 26676,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 7.82
+        },
+        {
+            "pid": 27576,
+            "name": "taskhostw.exe",
+            "executable": "C:\\Windows\\System32\\taskhostw.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "memory_mb": 8.23
+        },
+        {
+            "pid": 1176,
+            "name": "csrss.exe",
+            "executable": "C:\\Windows\\System32\\csrss.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 6.58
+        },
+        {
+            "pid": 1408,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 6.7
+        },
+        {
+            "pid": 2568,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 7.03
+        },
+        {
+            "pid": 3636,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 7.12
+        },
+        {
+            "pid": 3660,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 7.2
+        },
+        {
+            "pid": 5172,
+            "name": "AsusPTPService.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asusptpfilter.inf_amd64_1e467870260bcd2f\\AsusPTPService.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 6.8
+        },
+        {
+            "pid": 5332,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 7.09
+        },
+        {
+            "pid": 9236,
+            "name": "wlanext.exe",
+            "executable": "C:\\Windows\\System32\\wlanext.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 7.07
+        },
+        {
+            "pid": 9764,
+            "name": "fontdrvhost.exe",
+            "executable": "C:\\Windows\\System32\\fontdrvhost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 5.69
+        },
+        {
+            "pid": 10020,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 6.93
+        },
+        {
+            "pid": 13700,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 6.94
+        },
+        {
+            "pid": 16784,
+            "name": "msedgewebview2.exe",
+            "executable": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.37\\msedgewebview2.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 6.34
+        },
+        {
+            "pid": 29596,
+            "name": "igfxEMN.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_b20183c0e1a9d643\\igfxEMN.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "memory_mb": 5.97
+        },
+        {
+            "pid": 1548,
+            "name": "fontdrvhost.exe",
+            "executable": "C:\\Windows\\System32\\fontdrvhost.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "memory_mb": 4.14
+        },
+        {
+            "pid": 9660,
+            "name": "RuntimeBroker.exe",
+            "executable": "C:\\Windows\\System32\\RuntimeBroker.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "memory_mb": 4.33
+        },
+        {
+            "pid": 12048,
+            "name": "SecurityHealthSystray.exe",
+            "executable": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "memory_mb": 4.74
+        },
+        {
+            "pid": 18252,
+            "name": "OpenConsole.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\04c0d99f4f\\resources\\app\\node_modules.asar.unpacked\\node-pty\\build\\Release\\conpty\\OpenConsole.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "memory_mb": 4.12
+        },
+        {
+            "pid": 21780,
+            "name": "python.exe",
+            "executable": "D:\\Sih\\sih26148\\JOCKY\\.venv\\Scripts\\python.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "memory_mb": 4.15
+        },
+        {
+            "pid": 25688,
+            "name": "UserOOBEBroker.exe",
+            "executable": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "memory_mb": 5.6
+        },
+        {
+            "pid": 28196,
+            "name": "jocky.exe",
+            "executable": "D:\\Sih\\sih26148\\JOCKY\\.venv\\Scripts\\jocky.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "memory_mb": 4.4
+        },
+        {
+            "pid": 1376,
+            "name": "LsaIso.exe",
+            "executable": "C:\\Windows\\System32\\LsaIso.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 3.89
+        },
+        {
+            "pid": 8656,
+            "name": "AsusOptimizationStartupTask.exe",
+            "executable": "C:\\Windows\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSOptimization\\AsusOptimizationStartupTask.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 2.81
+        },
+        {
+            "pid": 9204,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 3.44
+        },
+        {
+            "pid": 12216,
+            "name": "Code.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\Code.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 3.53
+        },
+        {
+            "pid": 13424,
+            "name": "DefenderSessionHelper.exe",
+            "executable": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26080.4-0\\DefenderSessionHelper.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 2.69
+        },
+        {
+            "pid": 14136,
+            "name": "chrome.exe",
+            "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 3.41
+        },
+        {
+            "pid": 14500,
+            "name": "OpenConsole.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\04c0d99f4f\\resources\\app\\node_modules.asar.unpacked\\node-pty\\build\\Release\\conpty\\OpenConsole.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 3.64
+        },
+        {
+            "pid": 17024,
+            "name": "copilot-runtime.exe",
+            "executable": "D:\\Program Files\\Microsoft VS Code\\04c0d99f4f\\resources\\app\\node_modules.asar.unpacked\\@github\\copilot-sdk-win32-x64\\prebuilds\\win32-x64\\copilot-runtime.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 2.45
+        },
+        {
+            "pid": 28112,
+            "name": "SystemSettings.exe",
+            "executable": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 3.52
+        },
+        {
+            "pid": 30660,
+            "name": "svchost.exe",
+            "executable": "C:\\Windows\\System32\\svchost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "memory_mb": 3.57
+        },
+        {
+            "pid": 4,
+            "name": "System",
+            "executable": "",
+            "username": "NT AUTHORITY\\SYSTEM",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "memory_mb": 1.77
+        },
+        {
+            "pid": 800,
+            "name": "smss.exe",
+            "executable": "C:\\Windows\\System32\\smss.exe",
+            "username": null,
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "memory_mb": 1.38
+        },
+        {
+            "pid": 13452,
+            "name": "conhost.exe",
+            "executable": "C:\\Windows\\System32\\conhost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "memory_mb": 1.46
+        },
+        {
+            "pid": 20380,
+            "name": "pet.exe",
+            "executable": "C:\\Users\\john\\.vscode\\extensions\\ms-python.vscode-python-envs-1.38.0-win32-x64\\python-env-tools\\bin\\pet.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "memory_mb": 1.23
+        },
+        {
+            "pid": 29388,
+            "name": "conhost.exe",
+            "executable": "C:\\Windows\\System32\\conhost.exe",
+            "username": "DESKTOP-U2FDAEN\\john",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "memory_mb": 1.42
+        },
+        {
+            "pid": 0,
+            "name": "System Idle Process",
+            "executable": null,
+            "username": "NT AUTHORITY\\SYSTEM",
+            "cpu_percent": 1161.1,
+            "memory_percent": 0.0,
+            "memory_mb": 0.01
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+start: statement+
+
+?statement: scan_system
+          | scan_processes
+          | scan_network
+          | scan_files
+          | scan_persistence
+          | report
+
+scan_system: "scan" "system"
+scan_processes: "scan" "processes"
+scan_network: "scan" "network"
+scan_files: "scan" "files" ESCAPED_STRING
+scan_persistence: "scan" "persistence"
+report: "report"
+
+COMMENT: /#[^\n]*/
+%ignore COMMENT
+%import common.WS
+%ignore WS
+%import common.ESCAPED_STRING

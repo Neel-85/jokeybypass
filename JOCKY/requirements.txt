@@ -1,0 +1,6 @@
+typer
+lark
+psutil
+rich
+pytest
+PySide6

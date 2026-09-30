@@ -1,0 +1,6 @@
+scan system
+scan processes
+scan network
+scan files "scripts"
+scan persistence
+report

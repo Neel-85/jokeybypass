@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jocky"
+version = "0.1.0"
+description = "JOCKY Digital Forensics Framework"
+requires-python = ">=3.12"
+
+[project.scripts]
+jocky = "jocky.cli.main:app"
+
+[tool.setuptools.packages.find]
+include = ["jocky*"]

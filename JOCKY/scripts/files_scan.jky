@@ -1,0 +1,4 @@
+# Hash every file in a folder (change the path). Windows example: "C:\Users\you\Downloads"
+scan system
+scan files "scripts"
+report

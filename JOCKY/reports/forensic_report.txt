@@ -1,0 +1,23 @@
+========================================
+        JOCKY FORENSIC REPORT
+========================================
+
+SYSTEM
+------
+Operating System : Windows
+OS Release      : 11
+Architecture    : AMD64
+Hostname        : DESKTOP-U2FDAEN
+
+PROCESS ANALYSIS
+----------------
+Processes Found : 232
+
+DETECTION
+---------
+Findings        : 0
+
+No configured detection matches found.
+========================================
+        END OF JOCKY REPORT
+========================================

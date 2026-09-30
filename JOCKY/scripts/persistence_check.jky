@@ -1,0 +1,5 @@
+# Startup / persistence review, then report
+scan system
+scan processes
+scan persistence
+report

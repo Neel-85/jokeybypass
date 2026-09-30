@@ -1,0 +1,27 @@
+{
+    "evidence_type": "file_analysis",
+    "directory": "scripts",
+    "file_count": 2,
+    "files": [
+        {
+            "path": "scripts\\basic.jky",
+            "name": "basic.jky",
+            "extension": ".jky",
+            "size": 89,
+            "created_at": "2026-09-29T15:08:30.790967+00:00",
+            "modified_at": "2026-09-30T02:04:13.704629+00:00",
+            "accessed_at": "2026-09-30T02:09:34.276810+00:00",
+            "sha256": "6c9bdc3a2e025637333237335aa2209ea39985fa4d4c5676f42c439456400362"
+        },
+        {
+            "path": "scripts\\full_scan.py",
+            "name": "full_scan.py",
+            "extension": ".py",
+            "size": 1402,
+            "created_at": "2026-09-30T02:12:08.889248+00:00",
+            "modified_at": "2026-09-30T02:12:14.142864+00:00",
+            "accessed_at": "2026-09-30T02:12:32.888777+00:00",
+            "sha256": "725e82e13f65da7b73ca0687bcee2f8a4ab1a2221bcabb0dac17e5c3cbee10ae"
+        }
+    ]
+}

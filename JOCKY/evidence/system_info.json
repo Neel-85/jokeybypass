@@ -1,0 +1,9 @@
+{
+    "evidence_type": "system_info",
+    "collected_at": "2026-09-30T02:12:33.123449+00:00",
+    "operating_system": "Windows",
+    "os_release": "11",
+    "architecture": "AMD64",
+    "hostname": "DESKTOP-U2FDAEN",
+    "python_version": "3.12.4"
+}
